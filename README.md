@@ -48,7 +48,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
   Stateful logic is operations executed because of changes in state, using that state to determine the output of that logic
 
 5. Describe how to test a React component with React Testing Library.
-  
+  Testing with React Test Library uses a Arrange, Act, Assert model. first you arrange your data by rendering the component to be tested. Then you take actions to select elements and fire events as a user would. Finally, you make assertions and see if the application acts as expected.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
